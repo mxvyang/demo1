@@ -3,6 +3,6 @@ hello world amend
 =======
 hello world 
 
-what
+to b2
 >>>>>>> bra2
 
